@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="ai-background-remover" width="840" />
-
 # AiBackgroundRemover — Local Background Removal for Photos and Video (Portable x64 Build, JSON Configuration)
 
 <p><strong>AiBackgroundRemover — Local Background Removal for Photos and Video (Portable x64 Build, JSON Configuration): Remove backgrounds from photos and video — local, batch, instant. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
